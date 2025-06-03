@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gdgvda/cron/internal/matcher"
+	"github.com/anyongjin/cron/internal/matcher"
 )
 
 var minuteToInt = map[string]uint{}

@@ -3,7 +3,7 @@ package cron
 import (
 	"time"
 
-	"github.com/gdgvda/cron/internal/matcher"
+	"github.com/anyongjin/cron/internal/matcher"
 )
 
 // Specifies a duty cycle (to the second granularity), based on a

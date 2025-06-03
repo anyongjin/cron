@@ -3,7 +3,7 @@ package parser
 import (
 	"strings"
 
-	"github.com/gdgvda/cron/internal/matcher"
+	"github.com/anyongjin/cron/internal/matcher"
 )
 
 func ParseDay(dom, dow string) (matcher.Matcher, error) {
